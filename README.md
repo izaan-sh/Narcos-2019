@@ -48,8 +48,8 @@ This forensic investigation analyzes disk images and memory dumps across three p
 
 ## Repository Documents
 
-- [`IZAAN_34984006_Narcos2019_Investigation_Report.pdf`](./docs/IZAAN_34984006_Narcos2019_Investigation_Report.pdf) — Complete 43-page formal investigation report.
-- [`my_evidences.pdf`](./docs/my_evidences.pdf) — Extracted forensic screenshots and evidence log artifact compilation.
+- [`IZAAN_34984006_Narcos2019_Investigation_Report.pdf`](https://github.com/izaan-sh/Narcos-2019/blob/main/IZAAN_34984006_Narcos2019_Investigation_Report.pdf) — Complete 43-page formal investigation report.
+- [`my_evidences.pdf`](https://github.com/izaan-sh/Narcos-2019/tree/main/Evidence) — Extracted forensic screenshots and evidence log artifact compilation.
 
 ---
 
